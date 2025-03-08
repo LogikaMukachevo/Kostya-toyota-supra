@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: silver;
+}
+
+head {
+    background-color: black;
+}
+
+table {
+    border: 1px solid blue;
+
+}
+
+tr {
+    border: 1px solid blue;
+}
+
+td {
+    border: 1px solid blue;
+}
+
+
+footer p {
+    text-align: center;
+}
+
+p {
+    color: rgb(26, 31, 131);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(26, 31, 131);
+}
+
+img{
+display: block;
+margin: 0 auto;
+height: 300px;
+width: 400px;
+}
+
+a{
+text-decoration: none;
+font-size: 30px;    
+}
